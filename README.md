@@ -1,3 +1,4 @@
 # 学习笔记
 ## 目录
-### [leetcode:力扣刷题笔记(代码和思路)](./leetcode/README.md)
+### [leetCode:力扣刷题笔记(代码和思路)](./leetCode/README.md)
+### [javaScript:js相关的笔记](./javaScript/README.md)
