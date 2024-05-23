@@ -1,10 +1,3 @@
-#### 盒子模型
-    盒子模型分为两种：
-        1.标准盒模型
-            box-sizing: content-box
-            width = 内容宽度
-            盒子宽度 = width + padding + border + margin
-        2.怪异盒模型
-            box-sizing: border-box
-            width = 内容宽度 + padding + border
-            盒子宽度 = width + margin
+#### CSS
+- [盒子模型](./盒子模型.md)
+- [css选择器](./css选择器.md)
