@@ -1,4 +1,4 @@
-#### 选择器
+### 选择器
     id选择器（#box），选择id为box的元素
     类选择器（.one），选择类名为one的所有元素
     标签选择器（div），选择标签为div的所有元素
@@ -27,10 +27,10 @@
         [attribute~=value] 选择attribute属性包含value的元素
         [attribute|=value]：选择attribute属性以value开头的元素
 
-#### 优先级
+### 优先级
     !important > 内联 > ID选择器　> 类选择器　>　标签选择器
 
-#### 继承属性
+### 继承属性
     可以继承的属性：
         1.字体属性
             font:组合字体
